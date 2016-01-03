@@ -3,6 +3,7 @@
 module.exports = function(environment) {
   var ENV = {
     modulePrefix: 'asset-trail-frontend',
+    podModulePrefix: 'asset-trail-frontend/pods',
     environment: environment,
     baseURL: '/',
     locationType: 'auto',
